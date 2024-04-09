@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": "b1ac",
+      "name": "mouni",
+      "mobile": "32928928",
+      "dob": "2024-04-05",
+      "username": "mounika",
+      "password": "1234"
+    },
+    {
+      "id": "f4d9",
+      "name": "mouni",
+      "mobile": "32928928",
+      "dob": "2024-04-05",
+      "username": "mounika",
+      "password": "1234"
+    },
+    {
+      "id": "19c4",
+      "name": "mouni",
+      "mobile": "32928928",
+      "dob": "2024-04-05",
+      "username": "mounika",
+      "password": "1234"
+    },
+    {
+      "id": "f479",
+      "name": "mouni",
+      "mobile": "32928928",
+      "dob": "2024-04-05",
+      "username": "mounika",
+      "password": "1234"
+    },
+    {
+      "id": "0edd",
+      "name": "mouni",
+      "mobile": "32928928",
+      "dob": "2024-04-05",
+      "username": "mounika",
+      "password": "1234"
+    },
+    {
+      "id": "76a8",
+      "name": "mouni",
+      "mobile": "32928928",
+      "dob": "2024-04-05",
+      "username": "mounika",
+      "password": "1234"
+    },
+    {
+      "id": "7f94",
+      "name": "sharon",
+      "mobile": "32928928",
+      "dob": "2024-04-08",
+      "username": "sharonlilly",
+      "password": "1234"
+    }
+  ]
+}

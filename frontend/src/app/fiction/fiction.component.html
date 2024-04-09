@@ -1,0 +1,10 @@
+<div class="container">
+    <div class="card-body" *ngFor = "let a of authors">
+    <div class="card">
+      <img [src]="a.img">
+      <h5>{{a.title}}</h5>
+          <p class="card-title">{{a.author}}</p>
+          <a href="#" class="btn btn-primary">Buy Now</a>
+        </div>
+      </div>
+    </div>

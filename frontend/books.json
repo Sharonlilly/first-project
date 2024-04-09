@@ -1,0 +1,79 @@
+{
+    "selfHelp":[
+        {
+        "title":"THINK AND GROW RICH",
+        "author":"Napolean Hill",
+        "img":"https://bookspringindia.in/cdn/shop/products/thinkandgrowrich2.png?v=1626281267"
+        },
+        {
+        "title":"HOW TO STOP WORRYING AND START LIVING",
+        "author":"Dale Carnegie",
+        "img":"https://therightbookstoreindia.com/wp-content/uploads/2021/09/1632909266.jpg"
+        },
+        {
+        "title":"EAT THAT FROG",
+        "author":"Brian Tracy",
+        "img":"https://5.imimg.com/data5/ANDROID/Default/2023/2/WY/HI/DG/161183780/product-jpeg-500x500.jpg"
+        },
+        {
+        "title":"ATTITUDE IS EVERYTHING",
+        "author":"Jeff Keller",
+        "img":"https://miro.medium.com/v2/resize:fit:900/1*65aF015z848-gtMt_De6CA.jpeg"
+        }
+    ],
+    "fantasy":[
+        {"title":"THREE KINDS OF LUCKY",
+         "author":"Kim Harrison",
+         "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676721607l/57427858.jpg"},
+        {"title":"FLOATING HOTEL",
+            "author":"Grace Curtis",
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693750539l/195177497._SY475_.jpg"
+            },
+            {"title":"A FEATHER SO BLACK",
+            "author":"Lyra Selene",
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689372128l/182761396._SY475_.jpg"
+            },
+            {"title":"THE DAY TRIPPER",
+            "author":"James Goodhand",
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1699912822l/156347494._SY475_.jpg"
+            }
+
+    ],
+    "fiction":[
+
+        {"title":"NEVER LET ME GO",
+            "author":"Kazuo Ishiguro",
+        "img":"https://assets.brightspot.abebooks.a2z.com/dims4/default/9407480/2147483647/strip/true/crop/225x338+0+5/resize/253x380!/format/webp/quality/90/?url=http%3A%2F%2Fabebooks-brightspot.s3.us-west-2.amazonaws.com%2Fde%2F51%2Fc649ec2a3fdfd8c7167e17d033b8%2Fnever-let-me-go.jpg"},
+        {"title":"THE TIME TRAVELER'S WIFE",
+            "author":"Audrey Niffenegger",
+            "img":"https://assets.brightspot.abebooks.a2z.com/dims4/default/bd603c9/2147483647/strip/true/crop/225x338+0+11/resize/253x380!/format/webp/quality/90/?url=http%3A%2F%2Fabebooks-brightspot.s3.us-west-2.amazonaws.com%2F50%2Faa%2F460a4fba5f7572f333091fbfdafa%2Ftime-travelers.jpg"
+            },
+            {"title":"ROMANCE OF THE THREE KINGDOMS",
+            "author":"Luo Guanzhong",
+            "img":"https://assets.brightspot.abebooks.a2z.com/dims4/default/072da07/2147483647/strip/true/crop/211x317+7+0/resize/253x380!/format/webp/quality/90/?url=http%3A%2F%2Fabebooks-brightspot.s3.us-west-2.amazonaws.com%2Fda%2Fd9%2F26d95e8cb2eb2536177d07e967e3%2Fromance-of-the-three-kingdoms.jpg"
+            },
+            {"title":"NORTH AND SOUTH",
+            "author":"Elizabeth Gaskell",
+            "img":"https://assets.brightspot.abebooks.a2z.com/dims4/default/1ce7179/2147483647/strip/true/crop/225x338+0+0/resize/253x380!/format/webp/quality/90/?url=http%3A%2F%2Fabebooks-brightspot.s3.us-west-2.amazonaws.com%2F88%2F8b%2F1c0e672929e9c21f689a8f26ee27%2Fnorth-and-south.jpg"
+            }
+        
+    ],
+    "horror":[
+
+        {"title":"WHAT GROWS IN THE DARK",
+            "author":"Jaq Evans",
+        "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696375784l/198324103._SX318_.jpg"},
+        {"title":"ONE LAST BREATH",
+            "author":"Ginny Myers Sain",
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686155533l/174156090._SY475_.jpg"
+            },
+            {"title":"THE WOODS ALL BLACK",
+            "author":"Lee Mandelo",
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686576191l/126917878._SY475_.jpg"
+            },
+            {"title":"CLEVER CREATURES OF THE NIGHT",
+            "author":"Samantha Mabry",
+            "img":"https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689007698l/182761632._SY475_.jpg"
+            }
+    ]
+}

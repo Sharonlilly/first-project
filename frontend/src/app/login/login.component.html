@@ -1,0 +1,22 @@
+
+<h1>LOGIN PAGE</h1>
+
+<div class="container">
+
+    
+<form class="/action_page.php" [formGroup]="formGroup" (ngSubmit)="login()">
+ <div class="form-group">
+ <label for = "username">USERNAME</label>
+ <input type="text" formControlName="username" id="username" class="form-control">
+</div>
+ 
+<div class="form-group">
+ <label for="password">PASSWORD</label>
+ <input type="text" formControlNmae="password" id="password" class="form-control" autocomplete="off">
+</div>
+
+<button class="btn btn-success" value="submit" style="margin-top: 20px;">LOGIN</button>
+</form>
+</div>
+
+<p class="text-center">DON'T HAVE AN ACCOUNT? <a routerLink="/register">register here</a></p>

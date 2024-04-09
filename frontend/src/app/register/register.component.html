@@ -1,0 +1,39 @@
+<h1>REGISTER PAGE</h1>
+
+<div class="container">
+    
+<form [formGroup]="registerForm" (ngSubmit)="register()" class= "/action_page.php">
+
+ <div class="form-group">
+    <label for="name">PLEASE ENTER YOUR NAME</label>
+    <input type="text" formControlName="name" id="name" class="form-control">
+ </div>
+
+ <div class="form-group">
+    <label for="number">PLEASE ENTER YOUR MOBILE NUMBER</label>
+    <input type="tel" formControlName="mobile" id="number" class="form-control">
+ </div>
+
+ <div class="form-group">
+    <label for="dob">PLEASE SELECT YOUR DATE OF BIRTH</label>
+    <input type="date" formControlName="dob" id="dob" class="form-control">
+ </div>
+    
+ <div class="form-group">
+ <label for = "username">USERNAME</label>
+ <input type="text" formControlName="username" id="username" class="form-control">
+</div>
+ 
+<div class="form-group">
+ <label for="password">PASSWORD</label>
+ <input type="text" formControlName="password" id="password" class="form-control">
+</div>
+
+<button class="btn btn-success" value="submit" style="margin-top: 20px;">REGISTER</button>
+</form>
+</div>
+
+<p class="text-center">ALREADY HAVE AN ACCOUNT? <a routerLink="/login">login here</a></p>
+
+
+<footer>ALL COPYRIGHTS LIMITED</footer>
